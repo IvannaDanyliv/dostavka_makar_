@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(145, 204, 255);
+    background-size: cover;
+    font-family: Arial, sans-serif;
+}
+
+.delivery-info {
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.7); /* Додав прозорий фон для контенту */
+}
+
+.product-details {
+    color: blue;
+}
+h1{text-align: center;
+background-color: blue;
+color:whitesmoke;}
+img{text-align: center;
+    margin-left:50px;}
+p{text-align: center;}
+footer p {background-color: rgb(255, 255, 255);}
+footer{background-color: rgb(0, 0, 0);}
